@@ -1,0 +1,9 @@
+{
+    "type":"inkjs",
+    "file":"eddyname.json",
+    "title":"An Example",
+    "pics":{
+        "left":"chorus.png",
+        "right":"piplup.png"
+    }
+}

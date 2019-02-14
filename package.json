@@ -1,0 +1,21 @@
+{
+  "name": "inkedtie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab-ce.iut.u-bordeaux.fr:bjusserand/inkmessenger.git"
+  },
+  "author": "Mobandon",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  },
+  "dependencies": {
+    "inkjs": "^1.8.0-beta.1"
+  }
+}
